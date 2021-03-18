@@ -1,16 +1,5 @@
 # P's travel
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![슬라이드1](https://user-images.githubusercontent.com/59801728/111664233-e9701800-8854-11eb-8458-6a8fef17b4c4.PNG)
+![슬라이드4](https://user-images.githubusercontent.com/59801728/111664244-ec6b0880-8854-11eb-97f2-ff435abbf3f8.PNG)
+![슬라이드5](https://user-images.githubusercontent.com/59801728/111664253-ed9c3580-8854-11eb-9e93-19982888d351.PNG)
