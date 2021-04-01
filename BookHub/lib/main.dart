@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:bookhub/screens/start.dart';
+import 'package:bookhub/screens/record.dart';
 
 void main() {
   runApp(MyApp());
